@@ -1,0 +1,5 @@
+Alias /lara/ "%sprogdir%/domains/dev.ru/lara/public/"
+<Directory "%sprogdir%/domains/dev.ru/lara/public/">
+    Options Indexes FollowSymLinks MultiViews
+    AllowOverride All
+</Directory>
